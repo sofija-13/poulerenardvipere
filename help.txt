@@ -1,0 +1,19 @@
+-- English below -- 
+
+Pour lancer la simulation Poule Renard Vipère, entrez la ligne de commande suivante :
+
+./poulerenardvipere.sh
+
+Un message de bienvenue s'affiche, puis la simulation se lance.
+Lorsque vous fermerez la fenêtre de la simulation, 5 graphes se dessineront automatiquement.
+Des messages s'affichent dans le terminal au fur et à mesure de ces opérations.
+"Au revoir" s'affiche quand toutes les fenêtres ont été fermées.
+
+To launch the Poule Renard Vipere simulation, enter the following command line:
+
+./poulerenardvipere.sh
+
+A welcome message will appear, then the simulation will start.
+When you close the simulation window, 5 graphs will be drawn automatically.
+Messages will appear in the terminal as these operations progress.
+"Au revoir" (Goodbye) is displayed when all windows have been closed.
